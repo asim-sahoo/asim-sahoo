@@ -1,5 +1,5 @@
 <h2 align="center">🛰 Transmitting Code Signals: Ahoy, hoomans of the keyboard! Asim Sahoo here!</h1>
-<h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3><br>
+<h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="165" />
 
 ## 💫 About Me:
