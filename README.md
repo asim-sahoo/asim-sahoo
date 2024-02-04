@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="165" />
-🔭 I’m currently working on a Flutter based Quiz App <br>🌱 Learning Flutter and DSA<br>🌈 Current Tech Palette: Dart, C++<br>⚡ Fun fact: 🧠 Memory leaks in my brain: Frequently forget what I'm about to say mid-sentence.
+🔭 I’m currently working on a Flutter based Quiz App <br>🌱 Learning Flutter and DSA<br>🌈 Current Tech Palette: Dart, C++<br>⚡ Fun fact: 🧠 Memory leaks in my brain: Frequently forget what I'm about to say mid-sentence.<br>
 
 ## 🌐 Socials:
 <p align="left">
