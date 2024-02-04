@@ -2,7 +2,7 @@
 <h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3>
 
 ## 💫 About Me:
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="165" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="155" />
 🔭 I’m currently working on a Flutter based Quiz App <br>🌱 Learning Flutter and DSA<br>🌈 Current Tech Palette: Dart, C++<br>⚡ Fun fact:<br>🧠 Memory leaks in my brain: Frequently forget what I'm about to say mid-sentence.<br>
 
 ## 🌐 Socials:
