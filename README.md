@@ -24,4 +24,4 @@
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asim-sahoo&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
