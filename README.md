@@ -27,7 +27,7 @@
 
 ## 📊 Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=contribs&exclude_repo=asim-sahoo&rank_icon=github&hide_rank=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=contribs&exclude_repo=asim-sahoo&rank_icon=github"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-sahoo&theme=radical&hide_progress=true&hide=cmake&show_icons=true&hide_border=true">
 </p>
 
