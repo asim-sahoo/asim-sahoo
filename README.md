@@ -1,4 +1,4 @@
-<h2 align="center">🛰 Transmitting Code Signals: Ahoy, fellow space cadets of the keyboard! *Asim Sahoo* here!</h1>
+<h2 align="center">🛰 Transmitting Code Signals: Ahoy, fellow space cadets of the keyboard! **Asim Sahoo** here!</h1>
 <h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3>
 
 ## 💫 About Me:
