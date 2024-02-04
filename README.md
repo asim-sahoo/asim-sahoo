@@ -3,11 +3,8 @@
 
 ## 💫 About Me:
 🔭 I’m currently working on a Flutter based Quiz App <br>🌱 Learning Flutter and DSA<br>🌈 Current Tech Palette: Dart, C++<br>⚡ Fun facts<br>- 🧠 Memory leaks in my brain: Frequently forget what I'm about to say mid-sentence.<br>- 🧙‍♂ Secretly believe my code has magical debugging powers.<br>
-
-<br> <!-- Adding a line break -->
-
+<br> 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="165" />
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asimsahoo) 
