@@ -1,5 +1,5 @@
-<h2 align="center">Ahoy, hoomans of the keyboard! Asim Sahoo here!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3>
+<h1 align="center">Ahoy, hoomans of the keyboard! Asim Sahoo here!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h2 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h2>
 
 ## 💫 About Me:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="155" />
@@ -7,8 +7,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/asimsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asimsahoo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asimsahoo" target="blank"><img align="center" src="https://www.svgrepo.com/show/205292/linkedin.svg" alt="asimsahoo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asimsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asimsahoo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/awesimmmm" target="blank"><img align="center" src="https://www.svgrepo.com/show/205290/instagram.svg" alt="asimsahoo" height="30" width="40" /></a>
 </p>
 
 📧 Email: [asim2018off@gmail.com](mailto:asim2018off@gmail.com)
