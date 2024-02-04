@@ -1,4 +1,4 @@
-<h2 align="center">Ahoy, hoomans of the keyboard! Asim Sahoo here!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h2 align="center">Ahoy, hoomans of the keyboard! Asim Sahoo here!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3>
 
 ## 💫 About Me:
