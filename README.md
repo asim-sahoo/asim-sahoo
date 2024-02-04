@@ -24,8 +24,13 @@
 </p>
 
 ## 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=contribs)<br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hfdro7fqbohdv4kfwuttwytgvu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hfdro7fqbohdv4kfwuttwytgvu&redirect=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=contribs">
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hfdro7fqbohdv4kfwuttwytgvu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hfdro7fqbohdv4kfwuttwytgvu&redirect=true">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
