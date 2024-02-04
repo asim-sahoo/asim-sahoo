@@ -1,4 +1,4 @@
-<h2 align="center">👋Ahoy, hoomans of the keyboard! Asim Sahoo here!</h1>
+<h2 align="center">Ahoy, hoomans of the keyboard! Asim Sahoo here!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3>
 
 ## 💫 About Me:
@@ -23,5 +23,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp&nbsp
 </p>
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hfdro7fqbohdv4kfwuttwytgvu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hfdro7fqbohdv4kfwuttwytgvu&redirect=true)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
