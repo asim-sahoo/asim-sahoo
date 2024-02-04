@@ -27,7 +27,7 @@
 
 ## 📊 Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=contribs&exclude_repo=asim-sahoo">
 </p>
 
 <p align="center">
