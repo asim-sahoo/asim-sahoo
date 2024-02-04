@@ -1,6 +1,5 @@
 <h2 align="center">🛰 Transmitting Code Signals: Ahoy, hoomans of the keyboard! Asim Sahoo here!</h1>
 <h3 align="center">Mixing code with curiosity, Translating ideas into binaries.🧑‍💻</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="165" />
 
 ## 💫 About Me:
 🔭 I’m currently working on a Flutter based Quiz App <br>🌱 Learning Flutter and DSA<br>🌈 Current Tech Palette: Dart, C++<br>⚡ Fun facts<br>- 🧠 Memory leaks in my brain: Frequently forget what I'm about to say mid-sentence.<br>- 🧙‍♂ Secretly believe my code has magical debugging powers.<br>
