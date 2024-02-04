@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Flutter based Quiz App <br>🌱 I’m currently learning Flutter and DSA<br>🌈 Current Tech Palette: Dart, C++<br>⚡ Fun facts<br>- 🧠 Memory leaks in my brain: Frequently forget what I'm about to say mid-sentence.<br>- 🧙‍♂ Secretly believe my code has magical debugging powers.<br><br>
+🔭 I’m currently working on a Flutter based Quiz App <br>🌱 Learning Flutter and DSA<br>🌈 Current Tech Palette: Dart, C++<br>⚡ Fun facts<br>- 🧠 Memory leaks in my brain: Frequently forget what I'm about to say mid-sentence.<br>- 🧙‍♂ Secretly believe my code has magical debugging powers.<br><br>
 
 
 ## 🌐 Socials:
