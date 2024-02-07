@@ -24,6 +24,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:10px"/> </a>
 </p>
 
+<br>
+<br>
+
 ## 📊 Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asim-sahoo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=contribs&exclude_repo=asim-sahoo&rank_icon=github">
